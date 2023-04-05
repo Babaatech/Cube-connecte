@@ -21,8 +21,8 @@
 
 /* Fill in information from your Blynk Template here */
 /* Read more: https://bit.ly/BlynkInject */
-#define BLYNK_TEMPLATE_ID "TMPLHLLi9NwP"
-#define BLYNK_TEMPLATE_NAME "Cube connecté"
+//#define BLYNK_TEMPLATE_ID           "TMPxxxxxx"
+//#define BLYNK_TEMPLATE_NAME         "Device"
 
 # define NUM_LEDS 15
 #define LEDS_TYPE WS2812B
